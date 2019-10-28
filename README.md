@@ -1,2 +1,2 @@
 # SIAAM_mobile
-latihan flutter
+Sistem Informasi Apotek Atma Medika (flutter)
